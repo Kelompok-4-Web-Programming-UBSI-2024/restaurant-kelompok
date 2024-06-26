@@ -22,8 +22,9 @@ Nama Anggota
 Informasi Rilis
 *******************
 
-1.0 BETA = 29/04/2024
+1.0 BETA 	= 29/04/2024
 1.0 Alpha = 09/05/2024
+1.0 FULL 	= 26/06/2024
 
 ***********************
 Syarat yang dibutuhkan
